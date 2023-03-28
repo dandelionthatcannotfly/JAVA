@@ -1,5 +1,4 @@
 /*2023.3.20 JAVA 计算平均分
-* 孙婕
 * 4211169063*/
 public class averagegrade {
     int num;

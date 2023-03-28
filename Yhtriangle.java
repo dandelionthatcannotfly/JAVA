@@ -1,5 +1,5 @@
 /*2020.3.12 JAVA 杨辉三角
-*4211169063-孙婕*/
+*4211169063*/
 
 import java.util.Scanner;
 public class Yhtriangle {

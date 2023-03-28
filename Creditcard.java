@@ -1,5 +1,4 @@
 /*2023.3.18 JAVA  设置信用卡密码
-* 孙婕
 * 4211169063*/
 import java.util.Scanner;
 public class Creditcard {

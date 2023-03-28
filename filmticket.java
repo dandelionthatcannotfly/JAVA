@@ -1,5 +1,4 @@
 /*2023.3.20 JAVA 购买电影票
-*孙婕
 *4211169063*/
 
 public class filmticket{

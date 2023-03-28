@@ -1,5 +1,4 @@
 /*2023.3.18 JAVA 简易计算器
-* 孙婕
 * 4211169063*/
 import java.util.Scanner;
 public class calculator {

@@ -1,5 +1,5 @@
 /*2023.3.12 JAVA 模拟客车售票系统
-* 4211169063-孙婕*/
+* 4211169063*/
 
 import java.util.Scanner;
 public class sellticketsmodel {

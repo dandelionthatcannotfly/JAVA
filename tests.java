@@ -1,5 +1,5 @@
 /*2023.3.12  JAVA  自动批卷程序
-* 4211169063-孙婕*/
+* 4211169063*/
 
 import java.util.Scanner;
 import java.util.Arrays;
